@@ -9,7 +9,7 @@
   <img src="https://api.dicebear.com/9.x/notionists/svg?seed=aChow&backgroundColor=fde7c8" width="120" alt="aChow avatar" />
 </td>
 <td>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E8833A&vCenter=true&width=460&lines=Building+open-source+AI+Skills;Claude+Code+%2B+Codex+workflows;Automate+the+boring+stuff" alt="typing" /><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E8833A&vCenter=true&width=560&lines=AI+for+Image+%C2%B7+Video+%C2%B7+3D;Showcasing+what+I+make+with+AI;Turning+workflows+into+open-source+Skills" alt="typing" /><br/>
   白天写代码，业余把每天在用的 AI 工作流做成<b>开源 Skill</b>，Claude Code / Codex 一句话装好。<br/><br/>
   <a href="https://x.com/aChow_hz"><img src="https://img.shields.io/badge/X-@aChow__hz-000?logo=x&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=RichardChow&color=orange&style=flat-square&label=Profile+views" />
